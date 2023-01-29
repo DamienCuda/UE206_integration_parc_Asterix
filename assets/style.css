@@ -538,13 +538,26 @@ footer{
 i{
   color:var(--cl-main-green);
   font-size: 2rem;
-  transition: all 0.3s ease-in-out;
 }
 footer a:hover{
   text-decoration: underline;
 }
+
 i:hover{
-  color:var(--cl-white);
+  color: var(--cl-white);
+  animation: shakeIcone 200ms 2 linear;
+}
+
+@keyframes shakeIcone {
+  0% {
+    rotate : 15deg;
+  }
+  50% {
+      rotate : 0deg;
+  }
+  100% {
+      rotate : -15deg;
+  }
 }
 .footer_sections h3{
   margin-block: 0.7rem;

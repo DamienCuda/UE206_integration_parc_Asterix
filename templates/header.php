@@ -8,10 +8,10 @@
             </div>
             <ul id="nav_list" class="">
                 <li class="nav_item"><a href="#">Découvrez le parc</a></li>
-                <li class="nav_item"><a href="#">Nos attractions</a></li>
+                <li class="nav_item"><a href="#featured_attraction">Nos attractions</a></li>
                 <li class="nav_item"><a href="#">Les spectacles</a></li>
                 <li class="nav_item"><a href="#reservation">Réservations</a></li>
-                <li class="nav_item"><a href="#infos_pratiques">Infos pratiques</a></li>
+                <li class="nav_item"><a href="#tips">Infos pratiques</a></li>
             </ul>
         </nav>
     </header>

@@ -26,7 +26,7 @@
                     </ul>
                 </div>
                 <div class="formule_btn">
-                    <p href="#" class="btn btn_green">Ça m'intéresse</p>
+                    <p class="btn btn_green">Ça m'intéresse</p>
                 </div>
             </article>
         </a>
@@ -52,7 +52,7 @@
                     </ul>
                 </div>
                 <div class="formule_btn">
-                    <p href="#" class="btn btn_green">Ça m'intéresse</p>
+                    <p class="btn btn_green">Ça m'intéresse</p>
                 </div>
             </article>
         </a>
@@ -79,7 +79,7 @@
                     </ul>
                 </div>
                 <div class="formule_btn">
-                    <p href="#" class="btn btn_green">Ça m'intéresse</p>
+                    <p class="btn btn_green">Ça m'intéresse</p>
                 </div>
             </article>
         </a>
